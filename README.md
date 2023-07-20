@@ -10,12 +10,12 @@
 ![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=Lua)
  
 #### Frontend Technologies
+![Vue.js](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=Vue.js)
+![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=React)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS)
-![Vue.js](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=Vue.js)
-![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=React)
 ![Chakra UI](https://img.shields.io/badge/chakra-black?style=for-the-badge&logo=chakraui)
 ![Vuetify](https://img.shields.io/badge/Vuetify-black?style=for-the-badge&logo=vuetify)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
